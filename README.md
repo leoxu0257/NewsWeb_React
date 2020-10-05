@@ -1,3 +1,5 @@
+This is a News web page, using React. ALso AJAX is used to receive files from the backend.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
