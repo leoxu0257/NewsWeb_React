@@ -29,7 +29,7 @@ export default class AppHeader extends Component {
     }
 
     componentDidMount(){
-        axios.get('http://www.dell-lee.com/react/api/header.json')
+        axios.get('http://www.dell-lee.com/react/api/header.json') // AJAX request
         .then((res)=>{
             this.setState({
                 list: res.data.data
